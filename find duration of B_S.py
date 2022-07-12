@@ -32,3 +32,4 @@ if delta.days<=160:
     print("bank statement accepted")
 else:
     print("bank statement not accepted")
+pdfFileObj.close()

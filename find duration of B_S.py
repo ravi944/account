@@ -31,4 +31,4 @@ print(f'Difference is {delta.days} days')
 if delta.days<=160:
     print("bank statement accepted")
 else:
-    print("not accepted")
+    print("bank statement not accepted")
